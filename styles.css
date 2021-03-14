@@ -3,6 +3,7 @@
   width: 560px;
   height: 300px;
   border: solid 1px black;
+  margin-top: 30px;
 }
 .block {
   position:absolute;
